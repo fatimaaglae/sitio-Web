@@ -12,6 +12,14 @@ El sitio será  ONE PAGE.
 OBJETO
 basico POO
 
+QUE TIPO DE OBJETO ES 
+clase: cosa decorativa
+objeto : lampara
+metodo: ilumina, decorar
+atributos: color rojo , pequeño , con un tubo de matal,  con un foco, cables.
+
+
+
 
 
 
