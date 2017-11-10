@@ -1,0 +1,115 @@
+
+
+.primero{
+	padding: 6em 0 6em 0;
+    
+	   }
+
+.segundo{
+	padding: 4em 0 4em 0;
+	   }
+
+.tercero{
+    padding: 0.8em 0 0.8em 0;
+       }
+	   
+.grid-x{
+	padding: 1.5em;
+}
+
+.button.clear{
+    color:ff0099 ;
+}
+
+.contenedor{
+    width: 100px;
+    height: 309px;
+    position: relative;
+	margin: auto;
+}
+
+
+}
+
+.button{
+    border: 6px solid #ff0099;
+    background-color: black;;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+       
+       .cell{
+           font-family: 'Roboto Condensed', sans-serif;
+       }
+       
+        .top-bar{
+           background-color: black;
+           padding: 0;
+       }
+        .top-bar ul{
+           background-color:black;
+       }
+       .top-bar ul li{
+           background-color: black;
+       }
+       
+       a{
+           color: #fff;
+       }
+       
+       section.video{
+           padding: 50px 0px;
+           text-align: center;
+       }
+       
+       .orbit-container{
+           opacity: 0.8; 
+           background: # 0000;
+       }
+       
+       .orbit-bullets{
+           margin-bottom: auto;
+       }
+       
+       .mt{ margin-top: 20px; }
+       .mt2{ margin-top: 20px; }
+       
+       .grid-x .grid-padding-x{
+           text-align: center;
+           
+       }
+       
+       .mt3{
+           text-align: center;
+           font-size: 40px;
+           
+       }
+       
+       .mt4{
+           text-align: center;
+       }
+       
+li{
+    font-family: 'Roboto Condensed', sans-serif;    
+}
+
+p{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    margin-bottom: auto;
+}
+
+hr {
+  height: 2px;
+  background-color: black;
+}
+
+white: #fefefe;
+
+/* Demo Styles */
+body {
+  padding: 2rem 1rem;
+}
+
+.docs-example-orbit-slide {
+  padding: 1rem 4rem;
+}
